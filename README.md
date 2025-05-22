@@ -149,10 +149,6 @@ time.sleep(0.2)
 - **No Interaction**: The script only reads balances and code, making no state-modifying calls, ensuring no disruption to the blockchain.
 - **Research Purpose**: Intended for auditing and analysis, not malicious purposes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
